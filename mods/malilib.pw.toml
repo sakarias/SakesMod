@@ -1,8 +1,8 @@
 name = "malilib"
-filename = "malilib-fabric-1.19-0.12.1.jar"
+filename = "malilib-fabric-1.19.1-0.13.0.jar"
 side = "client"
 
 [download]
-url = "https://kosma.pl/masamods/malilib-fabric-1.19-0.12.1.jar"
+url = "https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.19.1-0.13.0.jar"
 hash-format = "sha1"
-hash = "a8874b54e6ff01dd7ddaa5db86128671f0c1a044"
+hash = "288cb0558ec4d7334b1c10a76d317551cf7c884a"
