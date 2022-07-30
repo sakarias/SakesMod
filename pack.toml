@@ -1,0 +1,13 @@
+name = "Sakes Mods"
+author = "Sakarias"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c631d5420d2d71fc97cef5e1238d0617e32e1041ae78c6627dc9932785f496b1"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"
