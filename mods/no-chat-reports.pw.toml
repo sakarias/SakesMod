@@ -1,13 +1,13 @@
 name = "No Chat Reports"
-filename = "NoChatReports-FABRIC-1.19.1-v1.8.0.jar"
+filename = "NoChatReports-FABRIC-1.19.1-v1.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.0/NoChatReports-FABRIC-1.19.1-v1.8.0.jar"
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.1/NoChatReports-FABRIC-1.19.1-v1.8.1.jar"
 hash-format = "sha1"
-hash = "cb2da59eadca787b990efe2375f12942d98de5b2"
+hash = "688939927e22c5d75797851a7eb2b45844feb6cc"
 
 [update]
 [update.modrinth]
 mod-id = "qQyHxfxd"
-version = "uJhFe0Kq"
+version = "BWAvwW90"
