@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "4630f59c3ac70d37641704833a8cc94171eb02697969277159b749ea15e74c00"
+hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
 
 [[files]]
@@ -12,17 +12,17 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
+hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
+hash = "1e1da169cfe9ded4e2548d666476c5859dc2d4daf0bcb745720f937ef30947d4"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
+hash = "5bd9719c412474bc8cadd6e188bcb1e912d0e1a69a208fbbfb183dbc2840a651"
 metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "c02eabded8af6a2282b4b44aab15206f198d44be3df21dd93ec8a8d4824ac32f"
+hash = "84c3fa8f432a1f7d8692e7a52f5c4a7b60c5c215a1329af48df76544e72b90d6"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
+hash = "52e2850acf1399c1302187570d6a573d2ebe73666ffbf8fd48546b2b5417d43a"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "d89fe3b22b4261c4c9dc8351c9c5a7dd3ed754fd7dbb9c7428ef051334163b1f"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+hash = "9fc12698d32dc90d2d729c01003e3da9dfa50a71d5c8e5a1dbcef1961bf95b31"
 metafile = true
 
 [[files]]
