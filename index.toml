@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "2a61813419fed226a1454113a93680926aef7d90b5b3bae8210c19e302ad61ec"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "8d6c5f677812e6e4f52b6da6b8bcec262f4136caef0915d600c822f4852016db"
+hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
 metafile = true
 
 [[files]]
