@@ -191,6 +191,11 @@ hash = "4592a197beedbe04c7eb30aa1eddae73411da48a240c4dc684449b3881bf70e8"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "7df3b326133d7dc8b6175cf86d26203f01697cc1e86b000a0970b940b82f9fe3"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "f89672b5ffcb247fb31e616b4de8f7e8a460802c7826d27a64328f27c190734d"
 metafile = true

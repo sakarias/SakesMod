@@ -1,8 +1,0 @@
-name = "minihud"
-filename = "minihud-fabric-1.19.1-0.23.0-pre.1.jar"
-side = "client"
-
-[download]
-url = "https://masa.dy.fi/mcmods/minihud/minihud-fabric-1.19.1-0.23.0-pre.1.jar"
-hash-format = "sha1"
-hash = "39686ffa705a902cfc9e7735734afb85c02347ac"
