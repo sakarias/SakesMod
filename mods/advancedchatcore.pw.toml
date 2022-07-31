@@ -1,0 +1,13 @@
+name = "AdvancedChatCore"
+filename = "AdvancedChatCore-1.19.1-1.5.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1l6k9gvT/versions/1.19.1-1.5.5/AdvancedChatCore-1.19.1-1.5.5.jar"
+hash-format = "sha1"
+hash = "4769fc7f71a7f9e05cd99478e296d260faf54f9e"
+
+[update]
+[update.modrinth]
+mod-id = "1l6k9gvT"
+version = "WEsDuUav"
