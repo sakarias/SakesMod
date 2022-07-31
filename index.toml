@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedchatcore.pw.toml"
+hash = "c709890f6e518212c25a70ba9a66ac291e6ed488142920550f67966292cd5ba1"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "96cf757bbd2d53519770ebd26f829df812aa6702d12cdb5d895f5ae2878b2835"
+hash = "6de9699b6beffe6248696a2091818d1b3af84243ba373ad7bd274cce7082f310"
 metafile = true
 
 [[files]]
