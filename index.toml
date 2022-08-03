@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5bd9719c412474bc8cadd6e188bcb1e912d0e1a69a208fbbfb183dbc2840a651"
+hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
 metafile = true
 
 [[files]]
@@ -282,5 +282,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f0a3e27c9875b275e6bbc68b8e4d847e404fd4f647674b625716ff2a75b61fef"
+hash = "318473eebd14e43e76cebb898ddae34a10e2888ce700aa781299a3398308135c"
 metafile = true
