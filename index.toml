@@ -6,6 +6,11 @@ hash = "c709890f6e518212c25a70ba9a66ac291e6ed488142920550f67966292cd5ba1"
 metafile = true
 
 [[files]]
+file = "mods/advancedchathud.pw.toml"
+hash = "b7a33050efbe729f475c41f7e6c06459ed1fa52d87bcf5eed7786f498ee1ec2e"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
+hash = "9b633588eb4869fd0961c69ce84589f31a53d188a7624bdaa9ee83383066c1cc"
 metafile = true
 
 [[files]]
@@ -282,5 +287,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "318473eebd14e43e76cebb898ddae34a10e2888ce700aa781299a3398308135c"
+hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
 metafile = true
