@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d2e6b36469b9c5b1c1946e35b1ea33dc21fd22c3302c2cfe0a83f418055a7c41"
+hash = "6d0dc2ae57a367a23c1d3cb36c92e14d957eb7702d25d2fb4e58a1ac983281d9"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "9b633588eb4869fd0961c69ce84589f31a53d188a7624bdaa9ee83383066c1cc"
+hash = "93943bd52619233f1997c41be2b2ae566b0dadfb49bf806a6c73cf44db73d494"
 metafile = true
 
 [[files]]
