@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advancedchatcore.pw.toml"
-hash = "8c04601bfb593c57c889adf38f6ecc98385b6f11f19757ec48907402ea9ba214"
-metafile = true
-
-[[files]]
-file = "mods/advancedchathud.pw.toml"
-hash = "b7a33050efbe729f475c41f7e6c06459ed1fa52d87bcf5eed7786f498ee1ec2e"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
