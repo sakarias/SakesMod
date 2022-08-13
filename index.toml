@@ -231,6 +231,11 @@ hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
 metafile = true
 
 [[files]]
+file = "mods/qcc.pw.toml"
+hash = "40342b7951b6c055456fc9e5abb02f393cad2e460c17cc5d98b5f00c1acb285b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
 metafile = true
